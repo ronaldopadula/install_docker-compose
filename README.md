@@ -2,7 +2,7 @@
 
 ##### 1. Download do script:
 ```
-sudo wget https://raw.githubusercontent.com/ronaldopadula/install_docker-compose/install_docker_compose.sh
+sudo wget https://github.com/ronaldopadula/install_docker-compose/blob/main/install_docker_compose.sh
 ```
 
 #### 2. Dar permissão
